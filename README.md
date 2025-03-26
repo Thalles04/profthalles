@@ -1,3 +1,3 @@
-# profthalles
+#profthalles
 
-Informações sobre o Prof Thalles
+Informações sobre o Prof. Thalles
